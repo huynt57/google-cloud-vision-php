@@ -1,5 +1,5 @@
 {
-  "name": "wapnen/google-cloud-vision-php",
+  "name": "huynt57/google-cloud-vision-php",
   "description": "A simple PHP library for the Google Cloud Vision API",
   "keywords": ["google cloud vision api", "computer vision", "machine learning", "php"],
   "type": "library",
